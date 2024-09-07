@@ -9,9 +9,6 @@
 <p>It's Me Aditya Raj </br>
 </br>I am Currently Work on Find My AI A Website in which all Better AI and that is free in that field is Avaliable.</p>
 
-# 📧 Mail Me:
-20220349035.aditya@doe.delhi.gov.in
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi.bxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrvidhyakji) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrvidhyakjii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/immortaladit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ccidcop) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mrvidhyakji) 
@@ -31,3 +28,13 @@
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=immortaladi&theme=react-dark)
 <br>
+
+## 📫 Contact Me: 
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:20220349035.aditya@doe.delhi.gov.in"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/immortaladi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/vidhyakji"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/adi.bxr"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+</p>
