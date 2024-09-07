@@ -1,10 +1,13 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learn%2C+Learn%2C+And Learn%22" alt="Typing SVG" /></h2>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=immortaladi&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/immortaladi)
+<ul align="left">
+
 
 
 # 💫 About Me:
-It's Me Aditya Raj </br>
-</br>I am Currently Work on Find My AI A Website in which all Better AI and that is free in that field is Avaliable. 
+<p>It's Me Aditya Raj </br>
+</br>I am Currently Work on Find My AI A Website in which all Better AI and that is free in that field is Avaliable.</p>
 
 # 📧 Mail Me:
 20220349035.aditya@doe.delhi.gov.in
