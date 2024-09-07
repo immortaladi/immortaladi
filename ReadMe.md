@@ -1,8 +1,13 @@
+
+
+
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learn%2C+Learn%2C+And Learn%22" alt="Typing SVG" /></h2>
+
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
+
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=immortaladi&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/immortaladi)
 <ul align="left">
-
 
 
 # 💫 About Me:
@@ -36,3 +41,6 @@
 	<a href="https://www.x.com/immortaadit"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="x"/></a>
 
 </p>
+<div align="center">
+<img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/2353939e-9de5-443e-a560-b450cf27ddc5" />
+</div>
