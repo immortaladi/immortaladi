@@ -38,7 +38,7 @@
 	<a href="https://github.com/immortaladi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/vidhyakjii"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/adi.bxr"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.x.com/immortaadit"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="x"/></a>
+	<a href="https://www.x.com/immortaladit"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="x"/></a>
 
 </p>
 <div align="center">
