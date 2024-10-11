@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learn%2C+Learn%2C+And Learn%22" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22DBRA%2C+SOSE%2C+DWARKA SEC 5%22" alt="Typing SVG" /></h2>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
 
