@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 <p>It's Me Aditya Raj </br>
-</br>I am Currently Work on Find My AI A Website in which all Better AI and that is free in that field is Avaliable.</p>
+</br>I am Currently Work on my school Personal Project.</p>
 
 
 # 💻 Tech Stack:
