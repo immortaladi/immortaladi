@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 <p>It's Me Aditya Raj </br>
-</br>I am Currently Work on my school Personal Project.</p>
+</br>I am currently working on my Personal project.</p>
 
 
 # 💻 Tech Stack:
