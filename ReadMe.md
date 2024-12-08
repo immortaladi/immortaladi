@@ -29,7 +29,21 @@
 [![](https://visitcount.itsvg.in/api?id=immortaladi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=immortaladi&theme=react-dark)
-<br>
+<be>
+
+
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<immortaladi>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<immortaladi>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<immortaladi>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+
+
+
 
 ## 📫 Contact Me: 
 <p align="center">
